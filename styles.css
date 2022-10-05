@@ -1,19 +1,23 @@
 body {
-    background-color:white
+    background: white
 }
 
 section {
-    background-color: blue;
+    background: rgb(206,206,255);
+    background: radial-gradient(circle, rgba(206,206,255,1) 42%, rgba(143,246,255,1) 89%);
 }
 
 .vapor {
-    background-color: aquamarine;
+    background: rgb(58,132,180);
+background: linear-gradient(90deg, rgba(58,132,180,1) 0%, rgba(216,236,235,1) 50%);
 }
 
 .moody {
-background-color: aqua;
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(138,20,167,1) 86%);
 }
 
 .arthub {
-    background-color: brown;
+    background: rgb(191,40,102);
+    background: linear-gradient(90deg, rgba(191,40,102,1) 0%, rgba(255,255,255,1) 100%);
 }
