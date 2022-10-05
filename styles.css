@@ -1,3 +1,19 @@
 body {
     background-color:white
 }
+
+section {
+    background-color: blue;
+}
+
+.vapor {
+    background-color: aquamarine;
+}
+
+.moody {
+background-color: aqua;
+}
+
+.arthub {
+    background-color: brown;
+}
