@@ -3,8 +3,7 @@ body {
 }
 
 section {
-    background: rgb(206,206,255);
-    background: radial-gradient(circle, rgba(206,206,255,1) 42%, rgba(143,246,255,1) 89%);
+    background:white
 }
 
 .vapor {
